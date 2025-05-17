@@ -1,0 +1,3 @@
+name;address;contact;password
+r;kuril;01;1
+a;h h;676;1

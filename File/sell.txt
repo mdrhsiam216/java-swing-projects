@@ -1,0 +1,2 @@
+ratul;phone;33;Face Masks;Vitamin D Syrup;Iron Supplement Syrup
+fuad;134;5;Bandages;

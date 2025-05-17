@@ -1,0 +1,3 @@
+mask;5.0;23-7-25;navana;n95
+golves;4.0;03-08-28;general company ltd;regular
+one time bandage;5.0;05-03-29;unknown;disposable

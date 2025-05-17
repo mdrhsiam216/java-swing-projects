@@ -1,0 +1,6 @@
+Napa;5.00;2026-07-20;square ltd;tablet
+Amoxiciliyn;3.50;2025-12-01;renta;capsule
+Filmet;2.25;2024-03-15;Akij group;tablet
+fexo;10.00;2026-01-10;square;tablet
+max pro;1.50;2025-10-30;gono sastho;capsule
+histacin;34.0;23 -01- 24;reneta;capsule
