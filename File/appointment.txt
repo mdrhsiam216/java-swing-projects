@@ -1,0 +1,4 @@
+rai;aslam;cold;1000
+Sharmista Ghosh;sabbir;Cardiologist;1000
+r;rahim;Neurologist;1500
+r;sabbir;Cardiologist;1000

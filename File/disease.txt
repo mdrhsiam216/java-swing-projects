@@ -1,0 +1,10 @@
+1;Immunologist
+2;Cardiologist
+3;Dermatologist
+4;Endocrinologist
+5;Neurologist
+6;Orthopedist
+7;Pathologist
+8;Radiologist
+9;Urologist
+10;Geneticist

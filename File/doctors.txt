@@ -1,0 +1,3 @@
+5;aslam;sojib;rubina;25;male;01412345679;aslam@gmail.com;cold;1000
+2;sabbir;jfj;judu;32;m;00000;mmmmm;Cardiologist;1000
+3;rahim;jff;hfyd;33;m;0000;ggjg;Neurologist;1500
