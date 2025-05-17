@@ -1,0 +1,4 @@
+Username;Name;Contact Number;Email;Area Name;Zip Code;Blood Group;Rh Factor;d
+0;1;2;3;4;5;6;7;0
+mariya43;Mariya;01111111111;amimariya@gmail.com;Bangladesh;1111;B+;+;m
+anika123;Anika;01222222222;anika@gmail.com;Dhaka;1205;A+;+;a
